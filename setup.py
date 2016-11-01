@@ -8,7 +8,7 @@ __author__ = 'bac'
 
 setup(
     name='py_chunkit',
-    version='0.4',
+    version='0.1',
     keywords=('WSGI', 'Chunked','Flask','uWSGI','Transfer-Encoding'),
     description=u'A WSGI chunked request parse midware',
     license='Apache License',
