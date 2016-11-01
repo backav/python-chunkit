@@ -1,2 +1,2 @@
 # python-chunkit
- a Flask chunked request parse midware
+ A WSGI chunked request parse midware,tested in uWSGI and Flask
